@@ -1,10 +1,10 @@
---Make a 1 screenGui, then Make a Frame. Next Make a local script and paste this code into it:
--- all you need to change is 
+--Make 1 screenGui, then Make a Frame. Next Make a local script and paste this code into it:
+-- all you need to change is
 
 local UIS = game:GetService("UserInputService")
 
 local MainFrame = script.Parent
-local TopBar = MainFrame:WaitForChild("Changeme") This, The part that you want people to drag that little icon like android apk mod menus. the name of the TextLable to want people to drag.
+local TopBar = MainFrame:WaitForChild("Changeme") --This The part that you want people to drag that little icon like android apk mod menus. the name of the TextLable to want people to drag.
 
 local Camera = workspace:WaitForChild("Camera")
 
