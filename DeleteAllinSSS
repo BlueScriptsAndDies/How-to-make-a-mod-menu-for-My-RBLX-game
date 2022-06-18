@@ -1,0 +1,8 @@
+-- now im kind so here
+script.Parent.MouseButton1Click:Connect(function()
+	for i,v in pairs(game.ServerScriptService:GetChildren()) do
+		v:Destroy()
+	end
+end)
+
+-- nothing to change. also this is just a normal script. not a local script.
