@@ -1,1 +1,1 @@
-# How-to-make-a-mod-menu-for-My-RBLX-game
+This is **NOT** a mod menu/exploit for Roblox. If it is used this way your mod menu will be removed. Please use **1** screen Guu, I can use as much as a want because, idk im cool. Now this "mod menu **MUST** follow the roblox TOS, mine has so far: Spawn Brick, Kick, Add Coins(local), Kill all and delete stuff in.. Ill give you perms to the game for you to add the "menu" My discord is: Blueboy_th#2747 if you need me.
